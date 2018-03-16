@@ -16,7 +16,8 @@ return [
         // 指向index模块的blog控制器
         'v1/users'=>'v1/users',
         'v1/plans'=>'v1/plans',
-        'v1/lists'=>'v1/index'
+        'v1/lists'=>'v1/index',
+        'v1/demand'=>'v1/demand',
     ],
     '__pattern__' => [
         'name' => '\w+',
